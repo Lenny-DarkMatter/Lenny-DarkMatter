@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lenny-DarkMatter. Student in the Master of Astrophysics in Bonn, Germany.
+- 👋 Hi, I’m Lennart. Student in the Master of Astrophysics in Bonn, Germany.
 - 📫 How to reach me: lboehm(...at...)uni-bonn.de
 
 <!---
